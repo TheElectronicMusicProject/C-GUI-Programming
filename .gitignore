@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Unignores anything that is a directory
+!*/
+
+# Unignore all files with an extentioïn
+!*.*
